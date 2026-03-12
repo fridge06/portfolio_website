@@ -218,7 +218,7 @@ h1 em { font-style: italic; color: var(--accent); }
   top: -60px; right: -60px;
   width: 240px; height: 240px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(201,107,60,0.12) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(23, 98, 51, 0.12) 0%, transparent 70%);
 }
 
 .hero-right::after {
@@ -227,7 +227,7 @@ h1 em { font-style: italic; color: var(--accent); }
   bottom: -40px; left: -40px;
   width: 180px; height: 180px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(59,110,165,0.1) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(156, 101, 199, 0.1) 0%, transparent 70%);
 }
 
 .scroll-hint {
